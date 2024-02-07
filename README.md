@@ -40,7 +40,7 @@ In the rapidly evolving field of software development, I believe in the power of
 
 Whether you're interested in collaborating on a project or just want to say hi, I'm always open to connecting with fellow tech enthusiasts and professionals.
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/senior-qa-automation-engineer/)
+- **LinkedIn:** [Aleksandar Stojanovic](https://www.linkedin.com/in/senior-qa-automation-engineer/)
 
 ---
 
