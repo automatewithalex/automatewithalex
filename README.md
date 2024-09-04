@@ -15,28 +15,12 @@ Leveraging a broad set of tools and technologies, I ensure seamless and effectiv
 
 And a lot more...
 
-## 📚 My Projects
-
-On my GitHub, you'll find a variety of **QA Automation Framework Template Projects** that serve as a starting point or inspiration for your own test automation efforts. These templates are designed with best practices in mind and are easily adaptable to different project needs.
-
-- [JAMSTEC](https://github.com/automatewithalex/automatewithalex/JAMSTEC)
-
 ## 💡 My Philosophy
 
 In the rapidly evolving field of software development, I believe in the power of automation to not only detect issues early but also to streamline the development process, enabling teams to focus on innovation and deliver value faster. My approach combines strategic planning, continuous learning, and a deep passion for quality, aiming to bridge the gap between development and operations for a more efficient and effective workflow.
-
-## 🌱 I'm currently learning ...
-
-- Advanced containerization techniques with Docker and Kubernetes
-- Cloud-based automation solutions
-- AI and ML applications in test automation
 
 ## 🤝 Let's Connect
 
 Whether you're interested in collaborating on a project or just want to say hi, I'm always open to connecting with fellow tech enthusiasts and professionals.
 
 - **LinkedIn:** [Aleksandar Stojanovic](https://www.linkedin.com/in/senior-qa-automation-engineer/)
-
----
-
-Thank you for visiting my profile! Don't forget to star the projects you find interesting 🌟.
