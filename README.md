@@ -132,7 +132,7 @@ My focus is on building automation that teams can trust, extend, and maintain.
 
 - Website: [automatewithalex.com](https://www.automatewithalex.com/)
 - LinkedIn: [Aleksandar Stojanovic](https://www.linkedin.com/in/senior-qa-automation-engineer/)
-- TestBlocks: [testblocks.io](https://testblocks.io/login)
+- TestBlocks: [testblocks.io](https://testblocks.io)
 
 ---
 
