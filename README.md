@@ -1,93 +1,56 @@
-# Aleksandar Stojanovic — Alex
+# Aleksandar Stojanovic
 
-**Senior QA Automation Consultant · Test Architecture · Playwright · API Automation · CI/CD · Founder of TestBlocks**
+**Founder, Automate with Alex & TestBlocks · QA automation trainer**
 
-I help engineering teams build reliable releases through test automation architecture, custom frameworks, CI/CD-integrated testing, and practical AI-assisted QA workflows.
-
-My work focuses on building automation systems that teams can trust, extend, and maintain — not brittle scripts that only work on one machine or depend on one person.
-
----
-
-## What I Do
-
-I design, build, stabilize, and scale QA automation systems across UI, API, mobile, performance, and CI/CD pipelines.
-
-I usually help teams that are dealing with:
-
-- Slow manual regression cycles
-- Flaky automated tests that nobody trusts
-- Weak or missing API coverage
-- Automation frameworks without clear architecture
-- Tests that are not integrated into CI/CD
-- Scattered test assets across Excel, TestRail, Qase, Postman, Jira, and code
-- QA teams that need senior automation guidance
-- Teams exploring AI-assisted QA without replacing engineering judgment
-
----
-
-## Core Focus Areas
-
-- QA automation architecture
-- Custom automation framework development
-- Playwright, Selenium, Cypress, WebdriverIO, and Appium
-- API automation with Rest Assured, Postman, SoapUI, and Supertest
-- Java, TypeScript, JavaScript, C#, Python, and Groovy
-- CI/CD test execution with GitHub Actions, Jenkins, Azure DevOps, GitLab, and AWS pipelines
-- Test reporting with Allure and related tools
-- Test management integrations with Qase, TestRail, Xray, and Jira
-- Performance testing with JMeter and Artillery
-- Flaky test stabilization and automation audits
-- QA mentoring and automation training
-- Practical AI-assisted QA workflows
-
----
-
-## TestBlocks
-
-I am building **TestBlocks**, an AI-assisted test automation platform focused on helping teams import existing test assets, generate baseline UI/API coverage, run tests locally or in CI, and maintain automation with AI-assisted review.
-
-TestBlocks is built around a practical idea:
-
-**Teams should not need months of setup before they can start building meaningful automated test coverage.**
-
-The platform focuses on:
-
-- Importing existing tests and specs
-- Generating structured baseline UI/API coverage
-- Supporting visual and low-code test workflows
-- Running tests locally or in CI
-- Mapping requirements and coverage
-- Using AI for setup, coverage analysis, failure review, and maintenance suggestions
-
-The goal is not to replace QA engineers.
-
-The goal is to reduce repetitive setup work and give teams a better starting point.
-
-Learn more: [testblocks.io](https://testblocks.io)
+I run Automate with Alex, a senior-led QA engineering company, and TestBlocks, our test automation platform. I also teach QA automation. Around ten years in software testing and QA automation across UI, API, mobile, performance and CI/CD. ISTQB Advanced Test Automation Engineer.
 
 ---
 
 ## Automate with Alex
 
-I also run **Automate with Alex**, my QA automation consulting brand.
+A QA engineering team based in Belgrade (CET). We place vetted manual and automation QA engineers inside client teams on monthly contracts, handle scoped automation projects and work white-label for software agencies.
 
-Through Automate with Alex, I help companies build and improve automation systems for:
+- Embedded QA engineers, full-time or part-time
+- Scoped automation work: Playwright and Cypress frameworks, API test coverage, Selenium-to-Playwright migrations, flaky-suite stabilisation, performance testing, CI integration and reporting, automation audits
+- White-label QA for agencies
 
-- QA automation frameworks
-- API test automation
-- Playwright / Selenium / Cypress migrations
-- Mobile automation
-- Performance testing
-- CI/CD test execution
-- Reporting and test visibility
-- Workflow automation beyond testing
-- QA team training and mentoring
+I set the engineering standards, review our engineers' work and own delivery quality.
 
-Website: [automatewithalex.com](https://www.automatewithalex.com/)
+[automatewithalex.com](https://www.automatewithalex.com/)
 
 ---
 
-## Tech Stack
+## TestBlocks
+
+The test automation platform our team builds and uses. Public beta.
+
+- Crawls a running app, including pages behind a login, into page objects
+- Visual test builder on top of those page objects
+- Every test exports as plain Playwright `.spec.ts`
+- Runs through an agent on your own machine or in CI
+- AI test generation and failure analysis are beta features; engineers review generated tests
+
+Our position: AI-assisted, not AI-replaced.
+
+[testblocks.io](https://testblocks.io)
+
+---
+
+## Teaching
+
+I have taught QA and QA automation for years. I run a live, small-group course covering Playwright with TypeScript, API testing, CI/CD and AI-assisted testing.
+
+A charity Cypress course I ran brought together 80 students.
+
+---
+
+## How we think about automation
+
+Test automation is software engineering. It needs architecture, ownership, stable test data, readable abstractions, meaningful reporting and CI integration. The goal is not more tests. The goal is a quality signal the team trusts before release.
+
+---
+
+## What the team works with
 
 ### Languages
 
@@ -133,48 +96,8 @@ Website: [automatewithalex.com](https://www.automatewithalex.com/)
 
 ---
 
-## My Approach
-
-I treat test automation as software engineering.
-
-Good automation is not just a collection of scripts. It needs architecture, ownership, stable test data, readable abstractions, meaningful reporting, CI/CD integration, and a strategy that supports how the team actually releases software.
-
-The goal is not simply to add more tests.
-
-The goal is to create a reliable quality signal before release.
-
----
-
-## Current Focus
-
-- Building TestBlocks as an AI-assisted QA platform
-- Helping teams stabilize and scale automation frameworks
-- Creating practical examples for Playwright, API automation, CI/CD, and QA workflow automation
-- Exploring how AI can support test design, coverage analysis, failure review, and maintenance without replacing QA strategy
-
----
-
-## Planned Public Repositories
-
-I am preparing public examples and templates around:
-
-- Production-grade Playwright test architecture
-- Java Rest Assured API automation framework
-- QA automation audit checklist
-- CI/CD test execution templates
-- Selenium to Playwright migration examples
-- TestBlocks workflow examples
-
-These repositories will be added here as they are published.
-
----
-
 ## Links
 
-- Consulting: [automatewithalex.com](https://www.automatewithalex.com/)
-- Product: [testblocks.io](https://testblocks.io)
-- LinkedIn: [Aleksandar Stojanovic](https://www.linkedin.com/in/senior-qa-automation-engineer/)
-
----
-
-**Building automation that gives teams confidence before release, not excuses after failure.**
+- Company: [automatewithalex.com](https://www.automatewithalex.com/)
+- Platform: [testblocks.io](https://testblocks.io)
+- Contact: team@testblocks.io
