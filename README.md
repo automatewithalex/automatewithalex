@@ -2,7 +2,7 @@
 
 **Founder, Automate with Alex & TestBlocks · QA automation trainer**
 
-I run Automate with Alex, a senior-led QA engineering company, and TestBlocks, our test automation platform. I also teach QA automation. Around ten years in software testing and QA automation across UI, API, mobile, performance and CI/CD. ISTQB Advanced Test Automation Engineer.
+I run Automate with Alex, a senior-led QA engineering company, and TestBlocks, our test automation platform. I also teach QA automation. 10 years in IT, 7+ in QA and QA automation, across UI, API, mobile, performance and CI/CD. ISTQB Advanced Test Automation Engineer.
 
 ---
 
