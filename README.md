@@ -98,6 +98,6 @@ Test automation is software engineering. It needs architecture, ownership, stabl
 
 ## Links
 
-- Company: [automatewithalex.com](https://www.automatewithalex.com/)
+- Team: [automatewithalex.com](https://www.automatewithalex.com/)
 - Platform: [testblocks.io](https://testblocks.io)
 - Contact: team@testblocks.io
